@@ -41,7 +41,7 @@ cd pytorch-binary-classification
 ```
 jupyter notebook
 ```
-4. Open and run the `Binary_Classification_Tutorial.ipynb` notebook.
+4. Open and run the `binary_classification.ipynb` notebook.
 
 ## Dataset
 
