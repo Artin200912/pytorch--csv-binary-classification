@@ -21,10 +21,10 @@ To run the notebook, you'll need the following dependencies:
 
 You can install the required packages via pip:
 
-`` bash
+``` bash
 pip install -r req.txt
 
-``
+```
 
 ## Usage
 
